@@ -1,0 +1,22 @@
+{
+  "materi": [
+    {
+      "id": 1,
+      "judul": "Apa itu Variabel?",
+      "isi": "Variabel adalah tempat untuk menyimpan nilai. Contoh: var x = 5;"
+    },
+    {
+      "id": 2,
+      "judul": "Tipe Data",
+      "isi": "Tipe data umum: string, number, boolean, array, object."
+    }
+  ],
+  "soal": [
+    {
+      "id": 1,
+      "pertanyaan": "Apa fungsi dari variabel?",
+      "opsi": ["Menyimpan data", "Menampilkan data", "Menghapus data"],
+      "jawaban": "Menyimpan data"
+    }
+  ]
+}
